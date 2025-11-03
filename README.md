@@ -4,7 +4,7 @@ Repositorio de Khail Cruz para prueba API REST
 Para probar el funcionamiento de los requests GET, POST, PUT y DELETE coloque un file json en la misma carpeta, las rutas funcionan en el Postman con el unico error que los requests de PUT y DELETE no utilizan los Params de Postman. Tambien se creo la connection con la base de datos y se iba a utilizar la metodologia de utilizar Modelos, controladores y rutas unicas para realizar las acciones, sin embargo estas dieron error. La API utiliza el framework de Express.js ya que es el que mas recuerdo, lleva otras extensiones como Nodemon para que se actualize sin detener el servidor cada vez que se utilize y extensiones para las acciones de la base de datos como Morgan y Sequelize. Para la base de datos de utilizo MySQL ya que previamente habia tenido conocimientios de usar este programa de Base de datos.
 
 Capturas de Request y Responds de Postman
-![08190596-cbf8-4aff-a119-14f8d68b4664](https://github.com/user-attachments/assets/a48ea03d-35de-4da5-811b-850eddea79a1)
+![1e181a15-c5b9-4b64-99c8-b69610870450](https://github.com/user-attachments/assets/0c62b13e-4444-47be-ab97-6a5816e10d1d)
 ![c21515dd-a1ee-4f2a-ac5a-b5eeea97139b](https://github.com/user-attachments/assets/8c2840bf-1475-4faf-8335-ab3526f56c51)
 ![cff59948-a847-4943-96b9-af346e987fd1](https://github.com/user-attachments/assets/00893342-9bc9-4bf4-8eaa-8278c7182304)
 ![b85b89c6-18b4-466e-9d02-5541e61257ca](https://github.com/user-attachments/assets/2b9f9e83-973f-4aad-b892-20111549991c)
